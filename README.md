@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👨‍💻 About Me<br><br>🔭 I’m currently working on<br>Building real-world full-stack projects like Translator API and School Management System using Node.js and MySQL<br><br>👯 I’m looking to collaborate on<br>Backend development projects and API-based applications<br><br>🤝 I’m looking for help with<br>Improving system design and building scalable applications<br><br>🌱 I’m currently learning<br>Advanced Backend Development, APIs, and Database Optimization<br><br>💬 Ask me about<br>Node.js, Express, REST APIs, MySQL, and Full-Stack Development<br><br>⚡ Fun fact<br>I love building real-world projects from scratch and turning ideas into working systems 🚀<br>
 
 
